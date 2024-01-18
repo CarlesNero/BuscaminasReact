@@ -1,0 +1,45 @@
+input::placeholder {
+  color: white;
+}
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+h1 {
+  color: #062f99 !important;
+}
+body {
+  background-color: red;
+  height: 100vh;
+  background-color: #062f99 !important;
+}
+
+main {
+  margin-top: 10rem;
+  min-width: 20rem;
+  max-width: 25rem!important;
+}
+.container {
+  border: 3px #062f99 solid;
+}
+
+input {
+  background-color: #062f99;
+  color: white;
+  text-align: center;
+  font-size: 1.3rem !important;
+}
+
+button {
+  max-width: 50px;
+  aspect-ratio: 1;
+  border: 0;
+  background-color: #062f99;
+  color: white;
+}
+
+.navbot p{
+    color: white;
+    margin: 0;
+}
